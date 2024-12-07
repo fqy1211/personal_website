@@ -9,3 +9,9 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 2
 ```
+
+```{r}
+set.seed(1)
+runif(5)
+```
+
