@@ -2,12 +2,25 @@ project:
   type: website
 
 website:
-  title: "stats140xp_personal_website"
+  title: "Qinyan Feng's website"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+
+  page-footer: 
+    right: "&copy; 2024, Qinyan(Christy) Feng"
+
+
+
+
+
+
+
 
 format:
   html:

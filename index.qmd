@@ -1,5 +1,5 @@
 ---
-title: "Finley Malloc"
+title: "Qinyan(Christy) Feng"
 about:
   template: trestles
   image: profile.jpg
@@ -11,22 +11,40 @@ about:
       href: https://github.com/fqy1211
     - text: Email
       url: "mailto:fqy1211@g.ucla.edu"
+      icon: inbox-fill
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Hello! My name is Qinyan(Christy) Feng. I'm currently a 4th year undergraduate student at the University of California, Los Angeles. I'm doing a double major in Molecular, Cell, and Developmental Biology & Statistics and Data Science. My research interests lie in cancer immunology, immunometabolism, innate immunity, and bioinformatics. Welcome to my personal website! 
 
 DOWNLOAD [CV](cv.pdf)
 
-## Education
+### Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles | Los Angeles, CA
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Bachelor of Science in Molecular, Cell, and Developmental Biology | Sep 2021 - Jun 2025
 
-## Experience
+Bachelor of Science in Statistics and Data Science | Sep 2021 - Jun 2025
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+### Publication
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Li, J. H., **Feng, Q.**, Ball, A. B., Kapelczak, E. D., Lee, C. D., Hermans, L., Wallerius, M. L., Bormin, J., Matulionis,
+N., TeSlaa, T., Christofk, H. R., Divakaruni, A. S., O’Sullivan, T. E. Serine is an essential amino acid for human NK
+cell function. Manuscript in preparation, Nov 2024.
+
+Li, J. H., Zhou, A., Lee, C. D., Shah, S. N., Ji, J. H., Vignesh Senthilkumar, Padilla, E. T., Ball, A. B., **Feng, Q.**,
+Bustillos, C. G., Riggan, L., Alain Greige, Divakaruni, A. S., Annese, F., Cooley, J. A., Skinner, S. A., Cowan, C. W., & O’Sullivan, T. E. (2024). MEF2C regulates NK cell effector functions through control of lipid metabolism. Nature Immunology, 25(5), 778–789. 
+
+PMID: [38589619](https://pubmed.ncbi.nlm.nih.gov/38589619/)
+
+DOWNLOAD [pdf](mef2c-paper.pdf)
+
+### Presentation
+
+Feng, Q. (2024, October 15-17). *Serine metabolism is required for cytokine-activated mouse NK cell function* [Poster session]. [La Jolla Immunology Conference (LJIC)](https://www.lajollaic.org/). San Diego, CA, United States.
+
+Feng, Q. (2024, October 9). *Serine is an essential amino acid for human NK cells* [Oral presentation]. Innate Immunity and Immunometabolism Seminar. Los Angeles, CA, United States.
+
+Feng, Q. (2024, May). *Serine is an essential amino acid for human NK cell functions* [Oral presentation]. PhD and Undergraduate Life Scientists in Academic Research (PULSAR) SYMPOSIUM. Los Angeles, CA, United States.
+
+Feng, Q. (2024, May). *Serine is an essential amino acid for human NK cell functions* [Oral presentation]. UCLA Undergraduate Research Week. Los Angeles, CA, United States.
