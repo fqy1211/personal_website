@@ -1,17 +1,32 @@
 ---
-title: "stats140xp_personal_website"
+title: "Finley Malloc"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/qinyan-christy-feng-27b63821b/
+    - icon: github
+      text: Github
+      href: https://github.com/fqy1211
+    - text: Email
+      url: "mailto:fqy1211@g.ucla.edu"
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+DOWNLOAD [CV](cv.pdf)
 
-```{r}
-1 + 2
-```
+## Education
 
-```{r}
-set.seed(1)
-runif(5)
-```
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
 
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
