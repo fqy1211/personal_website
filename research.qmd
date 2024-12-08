@@ -1,0 +1,47 @@
+---
+toc: false
+---
+
+### Dr. Timothy O’Sullivan’s Lab, UCLA MIMG Department
+
+*undergraduate research assistant* | Apr 2023 – Present
+
+**Elucidating the Metabolic Requirement of Human NK Cells**
+
+- Studied the role of environmental serine for supporting primary human and mouse NK cell effector function using cell culture assays, flow cytometry, and stable isotope tracing
+
+- Independently assessed the role of serine synthesis activity in mouse NK cells in vitro and during viral infection in vivo using CRISPR editing
+
+- Studied the role of Myocyte Enhancer Factor 2C (MEF2C) in regulating human NK cell lipid metabolism
+
+**Enhancing Human NK Cell Function Using Non-viral CRISPR Activation (CRISPRa)**
+
+- Optimized multiplex CRISPRa in primary human NK cells to simultaneously overexpress up to three genes
+
+- Developed CRISPRa-mediated CD64 Fc receptor expression on human NK cells to enhance cytotoxicity during
+tumor cell coculture
+
+### Dr. Hilary Coller’s Lab, UCLA MCDB Department
+
+*Undergraduate Research Assistant* | Sep 2023 – Present
+
+- Conducted computational analysis of time-course bulk RNA and single-cell RNA datasets to identify markers for
+quiescent and proliferating cancer cells and to investigate the mechanisms of drug tolerance
+
+- Achieved a preliminary method to further annotate quiescent G0 cancer cells by assessing pre-determined markers
+
+### Dr. Natalia Reixach’s group, Eli Lilly and Company
+
+*Research & Development Intern, Protein Engineering Department* | Jun 2024 – Sep 2024
+
+- Developed a new bispecific single-chain variable fragment (scFv) platform to accelerate bispecific antibody screening
+
+- Cloned 10 bi-specific scFv, purified bi-specific scFv proteins, and validated their bi-specific binding to target antigens
+
+
+
+
+
+
+
+

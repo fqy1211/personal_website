@@ -1,8 +1,39 @@
 ---
-title: "Projects"
+toc: false
 ---
 
-### project 1
+### Impact of Race and Gender on Education Outcome across USA
 
+*Data Specialist, Dgt Hum 101 course project* | Sep 2024 - Dec 2024
 
-### project 2
+- Analyzed Stanford Education Data Archive to assess the impact of socioeconomic factors on educational achievement
+
+- Utilized Tableau for data visualization and WordPress for website design [link to website](https://learningresilience.humspace.ucla.edu/)
+
+### Insights for Optimizing Statistics Education with CourseKata
+
+*Data Analyst, UCLA DataFest Data Analytics Competition* | Apr 2024
+
+- Analyzed how student achievement correlates with the quantity and types of chapter exercise questions in a textbook
+
+- Developed an engagement metric incorporating students’ time commitment, confidence, and interest; analyzed its
+effect on performance using regression models and provided recommendations to improve learning outcomes
+
+### Sentiment Predictions on IMDb Movie Reviews
+
+*Data Analyst, Stats 101C course project* | Sep 2023 - Dec 2023
+
+- Conducted data cleaning of textual reviews, utilizing Lexicon Sentiment Library and TF-IDF transformation
+
+- Analyzed the correlation between IMDb movie reviews and binary sentiments (positive/negative) by applying various
+machine learning models, including Logistic Regression, KNN, LDA, QDA, Decision Tree, and Random Forest
+
+DOWNLOAD [project report](IMDb-report.pdf)
+
+### UCLA Waste Audit Project
+
+*Data Analyst, Sustainable LA Grand Challenge Research Program* | Apr 2023 - Jun 2023
+
+- Cleaned, analyzed, and visualized a dataset of “10 years of waste across UCLA” using R and Tableau
+
+- Identified UCLA Buildings producing the greatest waste and visualized hot spot maps for campus waste production
